@@ -1,0 +1,4 @@
+    1 conflicts in: boot.img.out/RAMDISK/init.environ.rc
+    1 conflicts in: boot.img.out/RAMDISK/service_contexts
+    1 conflicts in: boot.img.out/RAMDISK/file_contexts
+    1 conflicts in: framework.jar.out/smali/android/app/ContextImpl.smali
